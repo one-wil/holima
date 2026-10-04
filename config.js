@@ -1,3 +1,4 @@
+
 // =============================================================================
 // ⚙️ ملف الإعدادات الرئيسي للمتجر
 // =============================================================================
@@ -466,8 +467,6 @@ const STORE_CONFIG = {
       "desk": 400
     }
   },
-  "COMMUNES_SOURCE": "https://raw.githubusercontent.com/DZBuild-com/dzship/main/data/communes.json",
-
   "FREE_DELIVERY": {
     "desk": {
       "enabled": true,
@@ -502,7 +501,7 @@ const STORE_CONFIG = {
     "promoDiscountProducts": []
   },
   "STORE_INFO": {
-    "name": "Vol-Shop1",
+    "name": "Holima",
     "storeIcon": "-",
     "storeTitle": "-",
     "tagline": "متجر الأحلام ",
@@ -762,6 +761,7 @@ const STORE_CONFIG = {
       }
     }
   },
+  "COMMUNES_SOURCE": "https://raw.githubusercontent.com/DZBuild-com/dzship/main/data/communes.json",
   "POINTS_SYSTEM": {
     "currentPoints": 1000,
     "remainingDays": 30,
